@@ -1,73 +1,49 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Math Magicians
+> React Setup Project to build a calculator.
 
-# Project Name
+## 🛠️ Built With
 
-> Description the project.
+- React JS
+- Babel
+- Linters: Stylelint & ESlint
 
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
+## 🧮 Prerequisites
 
 ### Setup
 
-### Install
+Follow these steps on your console to properly clone this repository on your desktop:
 
-### Usage
+```
+$ cd desktop
+$ git clone 'repo_path'
+$ cd 'repo_name'
+$ code . 
+Run 'npm i' to install the dev dependencies.
+Run 'npm start' to run the website from your local machine.
+Run 'npm run build' to build the code after editing it.
+```
 
-### Run tests
+## 👤 Authors
 
-### Deployment
+### Romina Patiño
 
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@rominana](https://github.com/rominana)
+- Twitter: [@romina_pati](https://twitter.com/romina_pati)
+- LinkedIn: [Romina Patiño](https://www.linkedin.com/in/romina-patino)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](https://github.com/mikemtzp/Math-magicians/issues).
 
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
+## ⭐️ Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+## 🥇 Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- This README.md was elaborated with the [Microverse readme-template](https://github.com/microverseinc/readme-template)
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+[MIT License](https://github.com/mikemtzp/Math-magicians/blob/dev/LICENSE)

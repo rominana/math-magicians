@@ -25,7 +25,7 @@ Run 'npm run build' to build the code after editing it.
 
 ## 👤 Authors
 
-### Mike Martínez
+### Romina Patiño
 
 - GitHub: [@rominana](https://github.com/rominana)
 - Twitter: [@romina_pati](https://twitter.com/romina_pati)

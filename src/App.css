@@ -67,3 +67,7 @@ h1 {
 .cero-button {
   grid-column: 1 / 3;
 }
+
+.button.calculator-buttons {
+  font-size: 45px;
+}

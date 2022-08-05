@@ -1,13 +1,11 @@
-# Math Magicians
+## Math Magicians
 > React Setup Project to build a calculator.
 
-## 🛠️ Built With
+## Built With
 
 - React JS
 - Babel
 - Linters: Stylelint & ESlint
-
-## 🧮 Prerequisites
 
 ### Setup
 

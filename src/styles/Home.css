@@ -1,0 +1,24 @@
+
+.home-section {
+  margin: 0 auto;
+  width: 80%;
+  color: white;
+  padding: 8rem 6rem;
+}
+
+h2.home-title {
+  font-size: 2.5rem;
+  color: white;
+  padding-bottom: 30px;
+}
+
+h3.home-title {
+  font-size: 2rem;
+  color: white;
+}
+
+.home-p {
+  margin: 2rem 0;
+  font-size: 0.8rem;
+  color: white;
+}

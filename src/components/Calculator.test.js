@@ -1,3 +1,5 @@
+/** @format */
+
 import React from 'react';
 import renderer from 'react-test-renderer';
 import { render, screen, fireEvent } from '@testing-library/react';
@@ -27,5 +29,20 @@ describe('Calculator tests', () => {
     fireEvent.click(keyDot);
     fireEvent.click(keyFour);
     expect(input.textContent).toBe('7.4');
+  });
+
+  // pair programming test
+  it('simulate the user interaction with the calculator: 10', () => {
+    render(<Calculator />);
+    const keyFive = screen.getByText('5');
+    const keyTimes = screen.getByText('x');
+    const keyTwo = screen.getByText('2');
+    const keyEqual = screen.getByText('=');
+    const input = document.querySelector('.input');
+    fireEvent.click(keyFive);
+    fireEvent.click(keyTimes);
+    fireEvent.click(keyTwo);
+    fireEvent.click(keyEqual);
+    expect(input.textContent).toBe('10');
   });
 });

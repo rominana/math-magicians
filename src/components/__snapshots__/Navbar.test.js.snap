@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar tests Renders Navbar component  1`] = `
+Array [
+  <nav
+    className="navbar"
+  >
+    <h1>
+      <a
+        className="logo"
+        href="/home"
+        onClick={[Function]}
+      >
+        Math Magicians
+      </a>
+    </h1>
+    <ul>
+      <li>
+        <a
+          href="/home"
+          id="home-link"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+      </li>
+      <li>
+        <a
+          href="/calculator"
+          id="calculator-link"
+          onClick={[Function]}
+        >
+          Calculator
+        </a>
+      </li>
+      <li>
+        <a
+          href="/quote"
+          id="quote-link"
+          onClick={[Function]}
+        >
+          Quote
+        </a>
+      </li>
+    </ul>
+  </nav>,
+  " ",
+]
+`;
+
+exports[`Navbar tests Renders Navbar component correctly 1`] = `
+Array [
+  <nav
+    className="navbar"
+  >
+    <h1>
+      <a
+        className="logo"
+        href="/home"
+        onClick={[Function]}
+      >
+        Math Magicians
+      </a>
+    </h1>
+    <ul>
+      <li>
+        <a
+          href="/home"
+          id="home-link"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+      </li>
+      <li>
+        <a
+          href="/calculator"
+          id="calculator-link"
+          onClick={[Function]}
+        >
+          Calculator
+        </a>
+      </li>
+      <li>
+        <a
+          href="/quote"
+          id="quote-link"
+          onClick={[Function]}
+        >
+          Quote
+        </a>
+      </li>
+    </ul>
+  </nav>,
+  " ",
+]
+`;

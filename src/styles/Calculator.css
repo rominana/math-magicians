@@ -1,9 +1,16 @@
 * {
   margin: 0;
   padding: 0;
+  background-color: black;
   box-sizing: border-box;
   font-size: 20px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section-title {
+  color: white;
+  font-size: 34px;
+  padding: 4rem 4rem;
 }
 
 .calculator {

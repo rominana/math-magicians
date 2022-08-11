@@ -32,7 +32,7 @@ Run 'npm run build' to build the code after editing it.
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/mikemtzp/Math-magicians/issues).
+Feel free to check the [issues page](https://github.com/rominana/Math-magicians/issues).
 
 ## ⭐️ Show your support
 
@@ -44,4 +44,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-[MIT License](https://github.com/mikemtzp/Math-magicians/blob/dev/LICENSE)
+MIT License
